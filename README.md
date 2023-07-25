@@ -1,22 +1,22 @@
-1. Outline
+	1. Outline
 
-2. Overview
+	2. Overview
 
-3. Create an API Key with OpenAI
+	3. Create an API Key with OpenAI
 
-4. Implementation in Python
+	4. Implementation in Python
 
-5. GPT-3.5-Turbo Generated Best Case Summary Response for Booking.com
+	5. GPT-3.5-Turbo Generated Best Case Summary Response for Booking.com
 
-6. GUI Examples
+	6. GUI Examples
 
-7. Challenges with LLMs
+	7. Challenges with LLMs
 
-8. OpenAI API Costs
+	8. OpenAI API Costs
 
-9. Question(s) yet to be answered
+	9. Question(s) yet to be answered
 
-10. Useful Links for Reference 
+	10. Useful Links for Reference 
 
 1. Outline:
 The primary objective of this document is to delineate the application of Chat GPT 3.5 Turbo in the analysis of local text data, specifically Privacy Policy Documents. The advanced capabilities of this AI model are leveraged to scrutinize the text data meticulously and extract key-value pairs. These pairs are then utilized to generate a comprehensive and succinct response that encapsulates the essential information contained within the documents. The ultimate goal is to simplify the understanding of these complex documents and provide a clear, concise summary of their content.
