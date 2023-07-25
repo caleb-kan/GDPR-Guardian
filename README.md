@@ -19,17 +19,17 @@
 	10. Useful Links for Reference 
 
 1. Outline:
-The primary objective of this document is to delineate the application of Chat GPT 3.5 Turbo in the analysis of local text data, specifically Privacy Policy Documents. The advanced capabilities of this AI model are leveraged to scrutinize the text data meticulously and extract key-value pairs. These pairs are then utilized to generate a comprehensive and succinct response that encapsulates the essential information contained within the documents. The ultimate goal is to simplify the understanding of these complex documents and provide a clear, concise summary of their content.
+	The primary objective of this document is to delineate the application of Chat GPT 3.5 Turbo in the analysis of local text data, specifically Privacy Policy Documents. The advanced capabilities of this AI model are leveraged to scrutinize the text data meticulously and extract key-value pairs. These pairs are then utilized to generate a comprehensive and succinct response that encapsulates the essential information contained within the documents. The ultimate goal is to simplify the understanding of these complex documents and provide a clear, concise summary of their content.
 This document will show how GPT 3.5 Turbo LLM was used to analyze an organized and re-structured version of the Privacy Policy of Booking.com by Jiang Yan Bing locally.
 
 2. Overview: 
-The directory structure of our application will be organized and simplified for easy navigation and maintenance, featuring only Python (.py) and Text (.txt) files. The Python files will hold the source code of the application, including but not limited to 'main.py', 'MyAPIKey.py', ‘LLMquery.py’, and 'GUI.py'. Each Python file will be responsible for a particular set of functionalities, enhancing modularity and readability.
+	The directory structure of our application will be organized and simplified for easy navigation and maintenance, featuring only Python (.py) and Text (.txt) files. The Python files will hold the source code of the application, including but not limited to 'main.py', 'MyAPIKey.py', ‘LLMquery.py’, and 'GUI.py'. Each Python file will be responsible for a particular set of functionalities, enhancing modularity and readability.
 
-The Text (.txt) files present within our directory structure will serve a crucial role in harboring privacy policy data. Files such as 'privacy_policy.txt' will encapsulate vital privacy policy information pertaining to various companies. This data will be thoroughly analyzed by a 3rd party large language model from OpenAI, which can identify a company’s compliance with each of the six legal grounds as defined under the General Data Protection Regulation (GDPR).
+	The Text (.txt) files present within our directory structure will serve a crucial role in harboring privacy policy data. Files such as 'privacy_policy.txt' will encapsulate vital privacy policy information pertaining to various companies. This data will be thoroughly analyzed by a 3rd party large language model from OpenAI, which can identify a company’s compliance with each of the six legal grounds as defined under the General Data Protection Regulation (GDPR).
 
-The six legal grounds include Consent, Contract, Legal Obligation, Vital Interests, Public Task, and Legitimate Interests. A large language model will systematically process this information to evaluate the extent of each company's adherence to these crucial GDPR grounds.
+	The six legal grounds include Consent, Contract, Legal Obligation, Vital Interests, Public Task, and Legitimate Interests. A large language model will systematically process this information to evaluate the extent of each company's adherence to these crucial GDPR grounds.
 
-As a result, we will be able to infer the specific user rights that each company satisfies. This intelligent, automated scrutiny of privacy policy data stands at the core of our commitment to bolster transparency and safeguard user rights in the increasingly complex digital landscape.
+	As a result, we will be able to infer the specific user rights that each company satisfies. This intelligent, automated scrutiny of privacy policy data stands at the core of our commitment to bolster transparency and safeguard user rights in the increasingly complex digital landscape.
 
 3. Create an API Key with OpenAI:
   1. Navigate to the OpenAI website and LogIn. Then you should have the following three options available:
