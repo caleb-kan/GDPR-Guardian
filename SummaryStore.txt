@@ -1,0 +1,18 @@
+consent:
+Certainly! Booking.com's consent policy is designed to protect the privacy and personal information of its users, particularly children under the age of 16. According to the policy, Booking.com only processes information about children with the consent of their parents or legal guardians. This means that if you are under 16 years of age, you are not allowed to use the Booking.com service without the permission of your parents or legal guardians.
+
+In addition, when Booking.com uses personal data to serve its own or a third party's legitimate interest, they always balance your rights and interests in the protection of your personal data against their own rights and interests or those of the third party. This means that Booking.com takes into consideration the importance of protecting your personal information and ensuring that it is used in a way that respects your rights and interests.
+
+By obtaining consent, Booking.com ensures that they have the legal basis to process personal data, especially when it relates to children. This is crucial in maintaining the privacy and security of users' personal information. Booking.com also takes measures to verify the age of users and obtain appropriate consent for those under the age of 16.
+
+Ultimately, Booking.com is committed to safeguarding your personal data and ensuring that it is used responsibly and in compliance with applicable privacy laws and regulations.
+legal_obligation:
+The specific legal obligations of Booking.com regarding the disclosure of personal information in response to lawful law enforcement requests may vary depending on the applicable laws and jurisdictions. Booking.com is committed to complying with these obligations in accordance with the law. However, the exact details and requirements may be subject to legal restrictions and cannot be provided without specific information on the laws and circumstances involved.
+legitimate_interests:
+Specific ways in which Booking.com uses legitimate interests include:
+
+1. Improving and personalizing services: Booking.com may analyze personal data to understand user preferences and behavior, allowing them to suggest tailored recommendations and offers. They may also use personal data to optimize the website or app's functionality and user experience.
+
+2. Fraud detection and prevention: Booking.com processes personal data to identify suspicious activities and patterns that may indicate fraud. This can involve analyzing booking information, payment details, and user behavior to ensure the security of the platform and protect users from fraudulent activities.
+
+3. Customer support: Personal data may be used to provide effective customer support. This can involve accessing booking information and user profiles to address specific issues, answer inquiries, and provide assistance. Personal data may also be used to facilitate communication between Booking.com and its users, ensuring a smooth and efficient customer support experience.
